@@ -1,0 +1,26 @@
+,category,segment
+0,"['furniture', 'home furnishings', 'equipment shops', 'manufacturers', 'except appliances']",Home
+1,"['cable', 'satellite', 'other pay television', 'radio services']",Media and Technology
+2,"['jewelry', 'watch', 'clock', 'silverware shops']",Accessories
+3,"['watch', 'clock', 'jewelry repair shops']",Accessories
+4,"['music shops - musical instruments', 'pianos', 'sheet music']",Art
+5,"['gift', 'card', 'novelty', 'souvenir shops']",Miscellaneous
+6,"['computers', 'computer peripheral equipment', 'software']",Media and Technology
+7,"['computer programming', 'data processing', 'integrated systems design services']",Media and Technology
+8,"['equipment', 'tool', 'furniture', 'appliance rent al', 'leasing']",Home
+9,"['artist supply', 'craft shops']",Art
+10,"['florists supplies', 'nursery stock', 'flowers']",Home
+11,"['antique shops - sales', 'repairs', 'restoration services']",Home
+12,"['motor vehicle supplies', 'new parts']",Home
+13,"['books', 'periodicals', 'newspapers']",Media and Technology
+14,"['stationery', 'office supplies', 'printing', 'writing paper']",Miscellaneous
+15,"['tent', 'awning shops']",Home
+16,"['art dealers', 'galleries']",Art
+17,"['bicycle shops - sales', 'service']",Home
+18,"['digital goods: books', 'movies', 'music']",Media and Technology
+19,['shoe shops'],Accessories
+20,"['opticians', 'optical goods', 'eyeglasses']",Accessories
+21,"['health', 'beauty spas']",Miscellaneous
+22,"['hobby', 'toy', 'game shops']",Miscellaneous
+23,"['lawn', 'garden supply outlets', 'including nurseries']",Home
+24,['telecom'],Media and Technology

@@ -132,5 +132,7 @@ dmypy.json
 data/curated/
 data/raw/
 
+*.pkl
+models/lightning_logs
 # OSX .DS_Store file
 .DS_Store

@@ -128,9 +128,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
+
 # data
-data/curated/
+data/curated/*
 data/raw/
+
+!data/curated/segments.csv
 
 *.pkl
 models/lightning_logs

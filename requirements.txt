@@ -1,3 +1,10 @@
+Basic requirements and pip installation
+
+This project is best run in a linux environment.
+
+First ensure pip is up-to-date.
+
+The following is a list of ALL package requirements: run `pip3 install [package name]` to install.
 absl-py==1.2.0
 aiohttp==3.8.3
 aiosignal==1.2.0

@@ -135,7 +135,7 @@ data/curated/*
 data/raw/
 
 !data/curated/segments.csv
-!data/curated/transaction_predictions.parquet
+!data/curated/*transaction_predictions.parquet
 
 *.pkl
 models/lightning_logs

@@ -46,6 +46,11 @@ Exploratory analysis:
 - `exploratoryAnalysis.ipynb`: This notebook contains exploratory analysis on the transactional data.
 - `fraudAnalysis.ipynb`: This notebook contains analysis on the fraud data.
 
+Modelling:
+- `linear_regression.ipynb` : Fits a Linear Regression to each time series 
+- `arima.ipynb`: Fits an ARIMA model to each time series using pmdarima package
+- `tft.ipynb` : Fits a Temporal Fusion Transformed to all time series
+
 Summarised info:
 - `summary.ipynb`: This notebook is a summary of all the group's findings and results.
 - `businessInformation.ipynb`: This notebook conatins further insights from a business perspective.

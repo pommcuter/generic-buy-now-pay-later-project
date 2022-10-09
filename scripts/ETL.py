@@ -22,8 +22,9 @@ def main():
     """
     Main controller.
     """
-    # Navigate to the scripts folder. Comment out if already in the scripts directory
-    os.chdir("/scripts")
+    # Navigate to the scripts folder
+    if os.path.exists("./scripts"):
+        os.chdir("./scripts")
 
     spark = (
         SparkSession.builder.appName("MAST30034 Project 2")

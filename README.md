@@ -36,10 +36,10 @@ A more detailed look into our approach (and other steps along the way) can be fo
 
 Preprocessing:
 - `loadExternalData.ipynb`: This notebook performs the same function as the file `external_loading.py`.
-- `consumerPreprocessing.ipynb`: This notebook performs the same function as the file of the same name.
-- `externalPreprocessing.ipynb`: This notebook performs the same function as the file of the same name.
-- `merchantPreprocessing.ipynb`: This notebook performs the same function as the file of the same name.
-- `transactionPreprocessing.ipynb`: This notebook performs the same function as the file of the same name.
+- `consumerPreprocessing.ipynb`: This notebook performs the same function as the `.py` file of the same name.
+- `externalPreprocessing.ipynb`: This notebook performs the same function as the `.py` file of the same name.
+- `merchantPreprocessing.ipynb`: This notebook performs the same function as the `.py` file of the same name.
+- `transactionPreprocessing.ipynb`: This notebook performs the same function as the `.py` file of the same name.
 
 Exploratory analysis:
 - `distributionAnalysis.ipynb`: This notebook contains information regarding the distribution of transactions per revenue band.
@@ -47,5 +47,5 @@ Exploratory analysis:
 - `fraudAnalysis.ipynb`: This notebook contains analysis on the fraud data.
 
 Summarised info:
-- `summary.ipynb`: This noteobok is a summary of all the group's findings and results.
+- `summary.ipynb`: This notebook is a summary of all the group's findings and results.
 - `businessInformation.ipynb`: This notebook conatins further insights from a business perspective.

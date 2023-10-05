@@ -1,13 +1,3 @@
-# Generic Buy Now, Pay Later Project
-
-Group 40 for Applied Data Science attempted to rank top merchants for a generic buy now, pay later (BNPL) service. Our group members consisted of:
-
-- William Fox
-- Ben Georgakas
-- Dash Park
-- Dinuk Epa
-- Aditya Ajit
-
 ## General approach
 
 Datasets for transactions were released on a weekly basis. An ETL pipeline was built to clean the different types of data:
